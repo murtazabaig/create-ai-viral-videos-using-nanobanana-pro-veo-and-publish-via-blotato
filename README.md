@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
+![license](https://img.shields.io/badge/license-MIT-green)
+![status](https://img.shields.io/badge/status-ready-brightgreen)
+
 # Create AI Viral Videos using NanoBanana 2 PRO & VEO3.1 and Publish via Blotato
 
 Advanced n8n automation for Create AI Viral Videos using NanoBanana 2 PRO & VEO3.1 and Publish via Blotato.
