@@ -20,7 +20,6 @@ Effortlessly turn a Telegram message into viral AI videos with NanoBanana 2 PRO,
 
 ## Included Files
 - `workflow.json`
-- `metadata.json`
 
 ## Setup
 1. Import `workflow.json` into n8n.
@@ -48,6 +47,14 @@ Effortlessly turn a Telegram message into viral AI videos with NanoBanana 2 PRO,
 ## Author
 
 Murtaza Baig
+
+## Screenshots
+
+![Screenshot](assets/10433-generate-asmr-rainforest-videos-from-text-with-seedream---seedance-on-fal-ai.webp)
+![Screenshot](assets/5448-clone-voices-from-text-to-speech-with-zyphra-zonos-api.webp)
+![Screenshot](assets/n8nworfklows.webp)
+![Screenshot](assets/nanobanana2.png)
+![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
